@@ -251,3 +251,4 @@ x
   that maximize profit while satisfying the constraints.
 This is the essence of the optimization model you've created
 **output of the task**
+![Image](https://github.com/user-attachments/assets/1d6eafef-d1f1-4215-98d1-5a22a3abd168)
